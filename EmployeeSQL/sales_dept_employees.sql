@@ -1,4 +1,4 @@
--- Create a view that list seach employee in the Sales department, including their employee number, last name, and first name
+-- Create a view that lists seach employee in the Sales department, including their employee number, last name, and first name
 CREATE VIEW sales_dept_emps AS
 SELECT
   employees.emp_no,

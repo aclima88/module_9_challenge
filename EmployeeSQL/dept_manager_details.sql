@@ -1,4 +1,4 @@
--- Ceate a view that lists the manager of each department along with their department number, department name, employee number, last name, and first name (2 points)
+-- Ceate a view that lists the manager of each department along with their department number, department name, employee number, last name, and first name
 CREATE VIEW manager_details AS
 SELECT
   departments.dept_no,
