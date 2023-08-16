@@ -11,7 +11,7 @@
 2. Loaded the data for each dataset into its designated table
 
 3. Created a view for the employees table that lists the employee's number, last name, first name, sex, and salary of each employee.
-![](/Users/angelolima/Documents/module_9_challenge/README/Employee_Details.png)
+![Employee_Details](https://github.com/aclima88/module_9_challenge/assets/133547307/2764f4ae-1d02-487e-9e7c-545a776e21be)
    
 4. Created a view that lists the first name, last name, and hire date for the employees who were hired in 1986.
 ![](/Users/angelolima/Documents/module_9_challenge/README/Employees_Hired_In_1986.png)
