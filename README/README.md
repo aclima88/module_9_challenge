@@ -1,5 +1,4 @@
-# module_9_challenge
-# SQL Challange
+# SQL Practice Project
 
 1. Created a table for each dataset in the Data folder. Using primary and foreign keys to make the tables relate to eachother.
     1. Departments
